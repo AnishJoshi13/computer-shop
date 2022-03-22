@@ -1,0 +1,9 @@
+0,17500,15,PersonalComputer
+1,400,19,Keyboard
+2,299,19,Mouse
+3,2000,15,GamingHeadset
+4,200,44,Headphones
+5,34999,16,Laptop
+6,4599,20,NVIDIAGPU
+7,15000,28,IntelCorei5
+8,2000,18,GamingMouse
